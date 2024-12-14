@@ -4,7 +4,7 @@
 
 <h3 align="left">Background:</h3>
 
-From a young age, I have been interested in the world of computing. This fascination has led me to explore and leverage programming languages such as `Python`, `Java`, `JavaScript`, `TypeScript`, `C`, `C++`, `HTML`, `CSS`, `SQL` and `Bash/ Z-shell scripting`. I also daily drive various Linux distros (`Arch`, `Ubuntu`, `Kali`), am enthusiastic about the open-source movement and maintain an active Linux ecosystem. I also maintain and utilise a vast **home lab setup** for penetration testing.
+From a young age, I have been interested in the world of computing. This fascination has led me to explore and leverage programming languages such as `Python`, `Java`, `JavaScript`, `TypeScript`, `C`, `C++`, `HTML`, `CSS`, `SQL` and `Bash/ Z-shell` scripting. I also daily drive various Linux distros (`Arch`, `Ubuntu`, `Kali`), am enthusiastic about the open-source movement and maintain an active Linux ecosystem. I also maintain and utilise a vast **home lab setup** for penetration testing.
 
 <h3 align="left">Experience:</h3>
 
