@@ -2,9 +2,19 @@
 
 <h3 align="center">Current Software Developer and Cyber Security Analyst</h3>
 
+<h3 align="left">Background:</h3>
+
+From a young age, I have been interested in the world of computing. This fascination has led me to explore and leverage programming languages such as **Python, Java, JavaScript, TypeScript, C, C++, HTML, CSS, SQL and Bash/ Z-shell scripting**. I also daily drive various Linux distros (**Arch, Ubuntu, Kali**) and maintain an active Linux ecosystem. I also maintain and utilise a vast **home lab setup** for penetration testing.
+
+<h3 align="left">Experience:</h3>
+
+I am currently studying for a Bachelor of Information Technology at Monash University, with a double major in cybersecurity and software development. I was the 2024 system administrator for [MonSec](https://monsec.io/contact_team/#2024-team) (Monash's official Cybersecurity Club), I redesigned their website and helped maintain their repository/ pipeline.
+
+In semester 1 of 2024, I received a commendation letter from Monash's Faculty of Information Technology for achieving the **highest score in FIT2093, Cybersecurity Tools and Techniques**, with a score of **98 (HD)**.
+
 <h3 align="left">Work and Insights:</h3>
 
-- 🔭 I’m currently working on **a radar detection system using an Arduino Mega 2560 with C language.**
+- 🔭 As a personal project, I’m currently working on **a radar detection system using an Arduino Mega 2560 with C language.**
 
 - 🌱 I’m currently learning **Azure, Docker, Terraform & Kubernetes.**
 
