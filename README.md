@@ -1,6 +1,6 @@
 <h1 align="center">Michael APC</h1>
 
-<h3 align="center">Current Software Developer and Cyber Security Analyst</h3>
+<h3 align="center">Software Developer and Cyber Security Specialist</h3>
 
 <h3 align="left">Background:</h3>
 
