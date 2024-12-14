@@ -4,7 +4,7 @@
 
 <h3 align="left">Work and Insights:</h3>
 
-- 🔭 I’m currently working on **a radar detection system using the Arduino Mega 2560 in C language.**
+- 🔭 I’m currently working on **a radar detection system using an Arduino Mega 2560 with C language.**
 
 - 🌱 I’m currently learning **Azure, Docker, Terraform & Kubernetes.**
 
