@@ -8,7 +8,7 @@ From a young age, I have been interested in the world of computing. This fascina
 
 <h3 align="left">Experience:</h3>
 
-I am currently studying for a Bachelor of Information Technology at Monash University, with a double major in cybersecurity and software development. I was the 2024 system administrator for [MonSec](https://monsec.io/contact_team/#2024-team) (Monash's official Cybersecurity Club), I redesigned their website and helped maintain their repository/ pipeline.
+I am currently studying for a Bachelor of Information Technology at Monash University, with a double major in cybersecurity and software development. I was the 2024 system administrator for [MonSec](https://monsec.io/contact_team/#2024-team) (Monash's official Cybersecurity Club).
 
 In semester 1 of 2024, I received a commendation letter from Monash's Faculty of Information Technology for achieving the **highest score in FIT2093, Cybersecurity Tools and Techniques**, with a score of **98 (HD)**.
 
