@@ -23,6 +23,6 @@ In semester 1 of 2024, I received a commendation letter from Monash's Faculty of
 
 <h3 align="left">Profile Statistics:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelapc04&show_icons=true&locale=en&layout=compact" alt="michaelapc04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelapc04&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="michaelapc04" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=michaelapc04&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/></a></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=michaelapc04&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="michaelapc04"/></a></p>
