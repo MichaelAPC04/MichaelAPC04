@@ -10,7 +10,7 @@ From a young age, I have been interested in the world of computing. This fascina
 
 I am currently studying for a Bachelor of Information Technology at Monash University, with a double major in cybersecurity and software development. I was the 2024 system administrator for [MonSec](https://monsec.io/contact_team/#2024-team) (Monash's official Cybersecurity Club).
 
-In semester 1 of 2024, I received a commendation letter from Monash's Faculty of Information Technology for achieving the **highest score in FIT2093, Cybersecurity Tools and Techniques**, with a score of **98 (HD)**. I also scored **97 (HD)** in the unit FIT2081, Mobile Application Development.
+In semester 1 of 2024, I received a commendation letter from Monash's Faculty of Information Technology for achieving the **highest score in FIT2093, Cybersecurity Tools and Techniques**, with a score of **98 (HD)**. I also scored a **98 (HD)** in the unit FIT3168, IT Forensics and a **97 (HD)** in the unit FIT2081, Mobile Application Development.
 
 <h3 align="left">Work and Insights:</h3>
 
@@ -23,7 +23,7 @@ In semester 1 of 2024, I received a commendation letter from Monash's Faculty of
 
 <h3 align="left">Profile Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=michaelapc04&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="michaelapc04" /></p>
+<p><img align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=michaelapc04&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="michaelapc04" /></p><br/>
 
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=michaelapc04&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="michaelapc04" /></p>
 <!--github-read-stats-eight-theta is a temp fix, the domain seems to break frequently.-->
