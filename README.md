@@ -23,6 +23,7 @@ In semester 1 of 2024, I received a commendation letter from Monash's Faculty of
 
 <h3 align="left">Profile Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelapc04&theme=default" alt="michaelapc04" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=michaelapc04&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="michaelapc04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelapc04&theme=default" alt="michaelapc04" /></p>
 <!--github-read-stats-eight-theta is a temp fix, the domain seems to break frequently.-->
-<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=michaelapc04&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="michaelapc04" /></p>
